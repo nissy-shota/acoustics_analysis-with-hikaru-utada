@@ -7,7 +7,7 @@ Please purchase and download the song [here](https://www.amazon.co.jp/%E4%BF%BA%
 
 ## Convert
 
-First, unzip the zip file.
-Then, change the mp3 file to a wav file.
-
-[convert_mp3towav.ipynb]()
+First, unzip the zip file.  
+Then, change the mp3 file to a wav file.  
+Here is sample code.  
+- [convert_mp3towav.ipynb](acoustics_analysis-with-hikaru-utada/convert/convert_mp3towav.ipynb)  
